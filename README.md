@@ -11,7 +11,7 @@ This includes such langauges such as HTML, SQL, Python, and applications such as
 
 *   🌍  I'm based in Oxford, England
 *   ✉️  You can contact me at [Jessup394@proton.me](mailto:Jessup394@proton.me)
-*   📌  Check out my website portfolio and CV here: https://sites.google.com/view/lewis-jessup-data-analytics-/world-health-map
+*   📌  Check out my website portfolio and CV here: https://sites.google.com/view/lewis-jessup-data-analytics-/home
 <p align="left">
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" alt="MySQL" title="MySQL" width="36" height="36" /></a><a href="https://portal.azure.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/azure-colored.svg" alt="Microsoft Azure" title="Microsoft Azure" width="36" height="36" /></a>
                   </p>
